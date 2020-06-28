@@ -1,2 +1,3 @@
-# project0
-demo project 
+# Project 0
+
+Web Programming with Python and JavaScript
